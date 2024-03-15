@@ -1,1 +1,3 @@
 # online_veterinary_appointment_system
+
+This GitHub repository contains all the necessary files for an Online Veterinary Appointment System, developed as a comprehensive Database Management System (DBMS) project. With user-friendly interfaces and essential features like user registration, appointment scheduling, and automated email notifications, it offers a seamless experience for both pet owners and veterinarians, enhancing accessibility and efficiency in managing appointments for pet healthcare. The system architecture encompasses frontend and backend components, ensuring smooth interaction between users and the database, fostering a reliable platform for scheduling and managing veterinary appointments online.
